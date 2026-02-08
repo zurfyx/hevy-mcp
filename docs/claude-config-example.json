@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hevy": {
+      "command": "node",
+      "args": ["/absolute/path/to/hevy-mcp/build/index.js"],
+      "env": {
+        "HEVY_API_KEY": "<your-hevy-api-key>"
+      }
+    }
+  }
+}
