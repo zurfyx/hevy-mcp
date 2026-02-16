@@ -4,6 +4,8 @@ MCP server for the [Hevy](https://hevyapp.com) workout tracking API (v1). Expose
 
 Read-only by default. Pass `--write` to enable mutating tools (create, update, delete).
 
+OpenClaw-specific onboarding and sidecar setup: [`OPENCLAW.md`](OPENCLAW.md).
+
 ## Getting Started
 
 ### 1. Get a Hevy API Key
